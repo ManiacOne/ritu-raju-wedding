@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ritu-raju-wedding/static/css/main.59bcd591.css",
-    "main.js": "/ritu-raju-wedding/static/js/main.aa52c92c.js",
+    "main.css": "/ritu-raju-wedding/static/css/main.326cdd73.css",
+    "main.js": "/ritu-raju-wedding/static/js/main.26f86c43.js",
     "static/media/wedding1(1).mp4": "/ritu-raju-wedding/static/media/wedding1(1).221e28150259695078ae.mp4",
     "static/media/wedding2(1).mp4": "/ritu-raju-wedding/static/media/wedding2(1).a6119da95b45cf1a6578.mp4",
     "static/media/wedding3(1).mp4": "/ritu-raju-wedding/static/media/wedding3(1).32245fb6ce2c609c91ac.mp4",
     "static/media/chakra.png": "/ritu-raju-wedding/static/media/chakra.d5a99303a5821c7eadd9.png",
     "static/media/elephant.png": "/ritu-raju-wedding/static/media/elephant.cc73559a065bf61a69d5.png",
     "index.html": "/ritu-raju-wedding/index.html",
-    "main.59bcd591.css.map": "/ritu-raju-wedding/static/css/main.59bcd591.css.map",
-    "main.aa52c92c.js.map": "/ritu-raju-wedding/static/js/main.aa52c92c.js.map"
+    "main.326cdd73.css.map": "/ritu-raju-wedding/static/css/main.326cdd73.css.map",
+    "main.26f86c43.js.map": "/ritu-raju-wedding/static/js/main.26f86c43.js.map"
   },
   "entrypoints": [
-    "static/css/main.59bcd591.css",
-    "static/js/main.aa52c92c.js"
+    "static/css/main.326cdd73.css",
+    "static/js/main.26f86c43.js"
   ]
 }
