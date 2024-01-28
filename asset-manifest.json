@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ritu-raju-wedding/static/css/main.1906e636.css",
+    "main.css": "/ritu-raju-wedding/static/css/main.f92d57e6.css",
     "main.js": "/ritu-raju-wedding/static/js/main.8a7fde82.js",
     "static/media/wedding1(1).mp4": "/ritu-raju-wedding/static/media/wedding1(1).221e28150259695078ae.mp4",
     "static/media/wedding2(1).mp4": "/ritu-raju-wedding/static/media/wedding2(1).a6119da95b45cf1a6578.mp4",
@@ -8,11 +8,11 @@
     "static/media/chakra.png": "/ritu-raju-wedding/static/media/chakra.d5a99303a5821c7eadd9.png",
     "static/media/elephant.png": "/ritu-raju-wedding/static/media/elephant.cc73559a065bf61a69d5.png",
     "index.html": "/ritu-raju-wedding/index.html",
-    "main.1906e636.css.map": "/ritu-raju-wedding/static/css/main.1906e636.css.map",
+    "main.f92d57e6.css.map": "/ritu-raju-wedding/static/css/main.f92d57e6.css.map",
     "main.8a7fde82.js.map": "/ritu-raju-wedding/static/js/main.8a7fde82.js.map"
   },
   "entrypoints": [
-    "static/css/main.1906e636.css",
+    "static/css/main.f92d57e6.css",
     "static/js/main.8a7fde82.js"
   ]
 }
